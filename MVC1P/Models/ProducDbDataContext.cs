@@ -10,12 +10,9 @@ namespace MVC1P.Models
 {
     public class ProducDbDataContext : DbContext
     {
-        public ProducDbDataContext(DbContextOptions options) : base(options)
-        {
-        }
+        public ProducDbDataContext(DbContextOptions options) : base(options){}
         public DbSet<Product> Product { get; set; }
         public DbSet<Category> Category { get; set; }
-
         public DbSet<Order> Order { get; set; }
         public DbSet<OrderLine> OrderLine { get; set; }
 

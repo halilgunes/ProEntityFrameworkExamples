@@ -24,6 +24,7 @@ namespace MVC1P.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.Title = Environment.GetEnvironmentVariable("HomeTitle");
             return View(GetProductListAndCategory());
         }
 

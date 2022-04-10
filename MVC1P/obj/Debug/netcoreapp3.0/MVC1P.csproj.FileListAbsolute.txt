@@ -161,7 +161,6 @@ D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\bin\Debug\netcoreapp3.0\ru\Microsoft.
 D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\obj\Debug\netcoreapp3.0\MVC1P.MvcApplicationPartsAssemblyInfo.cache
 D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateProduct.cshtml.g.cs
 D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\obj\Debug\netcoreapp3.0\Razor\Views\Home\InlineEditor.cshtml.g.cs
 D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\obj\Debug\netcoreapp3.0\Razor\Views\Categories\Index.cshtml.g.cs
@@ -169,3 +168,10 @@ D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\obj\Debug\netcoreapp3.0\Razor\Views\C
 D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\obj\Debug\netcoreapp3.0\MVC1P.csprojAssemblyReference.cache
 D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\obj\Debug\netcoreapp3.0\Razor\Views\Order\Index.cshtml.g.cs
 D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\obj\Debug\netcoreapp3.0\Razor\Views\Order\EditOrder.cshtml.g.cs
+D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\bin\Debug\netcoreapp3.0\xunit.abstractions.dll
+D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\bin\Debug\netcoreapp3.0\xunit.assert.dll
+D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\bin\Debug\netcoreapp3.0\xunit.core.dll
+D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\bin\Debug\netcoreapp3.0\xunit.execution.dotnet.dll
+D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\bin\Debug\netcoreapp3.0\Castle.Core.dll
+D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\bin\Debug\netcoreapp3.0\Moq.dll
+D:\Calismalar\Mvc02042022\MVC1\MVC1P\MVC1P\obj\Debug\netcoreapp3.0\MVC1P.MvcApplicationPartsAssemblyInfo.cache
