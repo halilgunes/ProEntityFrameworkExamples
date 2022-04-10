@@ -1,0 +1,15 @@
+OK 1.modeller çýkarýldý
+OK 2. tablolar dbde yaratýldý
+OK 3.DbContext eklendi.
+OK 4.Controllerlar düzenlenecek.
+OK 5.Viewlar düzenlenecek.
+OK 6.UpdateAll metodu/viewý yazýldý (partial view)
+OK 7.Update metodu/viewý yazýldý 
+OK 8.Delete metodu yazýldý
+OK 9.Delete ve Update div'leri col-xs-6 ile yan yana gösterildi.
+OK 10. Category repositorysi eklendi.
+OK 11.Category repositorysi ile ilgili Index viewý düzenelnecek.
+OK 12.Category view'ý yazýlacak.
+OK 13.CategoryEditor ile Category/Index.cshtml içinde partial view kullanýldý ve hem Add/Update/Delete burada kotarýldý.
+OK 14.Ýliþkisel db iþlemleri yazýlacak.
+OK 15. Chapter 7 iþlendi.

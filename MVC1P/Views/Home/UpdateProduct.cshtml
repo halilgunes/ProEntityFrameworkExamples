@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Product
+<h3 class="p-2 bg-primary text-white text-center">Products</h3>
+<form asp-action="UpdateProduct" method="post">
+    <div class="row">
+        <div class="col-2"><label asp-for="Id"></label></div>
+        <div class="col-4"><input asp-for="Id" class="form-control" readonly /></div>
+    </div>
+    <div class="row">
+        <div class="col-2"><label asp-for="Name"></label></div>
+        <div class="col-4"><input asp-for="Name" class="form-control" /></div>
+    </div>
+    <div class="row">
+        <div class="col-2"><label asp-for="ProductCategory"></label></div>
+        <div class="4 pl-2">
+            <select class="form-control" asp-for="CategoryId">
+                @if (Model.Id == 0)
+                {
+                    <option disabled selected>Chooese Category</option>
+                }
+                @foreach (Category c in ViewBag.Categories)
+                {
+                    <option selected=@(Model.ProductCategory?.Id == c.Id ) value="@c.Id">@c.Name</option>
+                }
+            </select>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-2"><label asp-for="PurchasePrice">Purchase Price</label></div>
+        <div class="col-4"><input asp-for="PurchasePrice" class="form-control" /></div>
+    </div>
+    <div class="row">
+        <div class="col-2"><label asp-for="RetailPrice">Retail Price</label></div>
+        <div class="col-4"><input asp-for="RetailPrice" class="form-control" /></div>
+    </div>
+    <div class="text-center">
+        <button class="btn btn-primary" type="submit">Save</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </div>
+</form>
